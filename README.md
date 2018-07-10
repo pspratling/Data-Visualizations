@@ -6,7 +6,7 @@ This repository is a collection of data visualizations and animations, created m
 
 <img src="https://github.com/pspratling/Data-Visualizations/blob/master/Expansion%20of%20Metro%20Atlanta/images/bokeh_dashboard.png" width="400" height=400>
 
-Visualizing the expansion of Metro Atlanta since 1980 via the increasing population densities of Georgia counties.
+Visualizing the expansion of Metro Atlanta since 1980 via the increasing population densities of Georgia counties. A linear colormapping is used to emphasize the growth of higher-populated counties.
 
 Data gathered from [US Census information](https://www.census.gov/).
 Note: Code in the repository is for the interactive bokeh dashboard in the second image, not for the animation. Functionality includes a slider for changing the year, mousewheel zoom,  a hovertool to display county information, and a pan tool.
